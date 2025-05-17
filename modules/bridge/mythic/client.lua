@@ -3,3 +3,9 @@ AddEventHandler("Characters:Client:Updated", function(key)
 		TriggerServerEvent('Inventory:Cash', key)
 	end
 end)
+
+-- TODO MYTHIC:
+
+function client.setPlayerStatus(values)
+    
+end

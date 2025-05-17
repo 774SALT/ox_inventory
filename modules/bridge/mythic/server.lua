@@ -56,25 +56,25 @@ AddEventHandler("Core:Shared:Ready", function()
 end)
 
 function server.setPlayerData(player)
-
+    -- TODO MYTHIC:
 end
 
 function server.syncInventory(inv)
-
+    -- TODO MYTHIC:
 end
 
 function server.UseItem(source, itemName, data)
-
+    -- TODO MYTHIC:
 end
 
 function server.hasLicense(inv, license)
-
+    -- TODO MYTHIC:
 end
 
 function server.buyLicense(inv, license)
-    
+    -- TODO MYTHIC:
 end
 
 function server.isPlayerBoss(playerId, group, grade)
-
+    -- TODO MYTHIC:
 end
